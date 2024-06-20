@@ -7,7 +7,7 @@ Web Developer
 I am a recent graduate with a bachelor's degree from Rajamangala University of Technology Rattanakosin, Wang Klai Kangwon Campus (RMUTR), actively pursuing opportunities in Web Development, PHP Development, Junior Backend Development, Junior Full Stack Development, Software Engineering, or related IT fields. I have been independently studying Laravel and React.js for 2 months and am enthusiastic about furthering my learning and professional growth.
 
 * 🌍  I'm based in Surat Thani, Thailand
-* ✉️  You can contact me at [adisak.general@gmail.com](mailto:adisak.general@gmail.com)
+* ✉️  You can contact me at [adisak.general@gmail.com](mailto:adisakkhongsuk@gmail.com)
 * 🧠  I'm learning Laravel and React.js to become a Full Stack Developer.
 * 🤝  I'm open to collaborating on Web Development, PHP Development, Junior Backend Development, Junior Full Stack Development, Software Engineering
 
